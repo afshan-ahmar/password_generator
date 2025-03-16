@@ -18,7 +18,7 @@ st.markdown("""
             background-color: #1e1e2e;
         }
         .stApp {
-            background-color: #2a2a3b;
+            background-color: #cbf0f0;
             padding: 2rem;
             border-radius: 15px;
             box-shadow: 0px 0px 20px rgba(255, 87, 51, 0.5);
